@@ -1,0 +1,3 @@
+# Pastemore Action Libraries
+
+This repository contains action libraries for [Pastemore](http://www.afkstudio.com/pastemore). For more information, see the developer documentation on the [Pastemore Website](http://www.afkstudio.com/pastemore/developer).
